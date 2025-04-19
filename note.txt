@@ -1,0 +1,15 @@
+
+<div
+  class="hero min-h-screen"
+  style="background-image: url(./img/img-b.png);">
+  <div class="hero-overlay bg-opacity-60"></div>
+  <div class="hero-content text-neutral-content">
+    <div class="">
+      <h1 class="md:mb-5 mb-3 lg:text-5xl md:text-3xl text-[22px] md:leading-[40px] font-semibold font-sora text-[#FFF]">Bid on Unique Items from <br>Around the World</h1>
+      <p class="md:mb-5 mb-3 font-sora text-[#FFF] lg:text-xl md:text-lg text-base font-light">
+        Discover rare collectibles, luxury goods, and vintage <br>treasures in our curated auctions
+      </p>
+      <button class="btn bg-white rounded-3xl">Explore Auctions</button>
+    </div>
+  </div>
+</div>
