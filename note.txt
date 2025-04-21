@@ -13,3 +13,132 @@
     </div>
   </div>
 </div>
+
+
+
+
+
+
+
+
+
+ <section class="bg-[#EBF0F5] py-20">
+<div class="lg:ml-44 md:ml-7 lg:mb-7 md:mb-3 mb-2">
+    <h3 class="text-[32px] font-sora font-medium text-[#0E2954] mb-3">Active Auctions</h3>
+    <p class="text-[#000] text-xl font-sora font-normal">Discover and bid on extraordinary items</p>
+</div>
+
+<div class="flex justify-center gap-5 lg:flex-row flex-col">
+<div class="text-center bg-white p-4 rounded-lg">
+<div class="flex gap-28">
+    <div>
+        <p class="lg:mr-28">Items</p>
+    </div>
+    <div class="flex gap-10">
+        <p>Current Bid</p>
+        <p>Time Left</p>
+        <p>Bid Now</p>
+    </div>
+</div>
+
+
+
+    <div class="flex items-center gap-7 mb-2">
+        <img src="./img/img-w.png" alt="" class="rounded-sm" style="background: url(<path-to-image>) lightgray 50% / cover no-repeat;">
+        <p>Vintage Leica M3 Camera </p>
+        <p>$2,850</p>
+        <p>2 Days left</p>
+        <i class="fa-regular fa-heart"></i>
+    </div>
+
+
+
+    <div class="flex items-center gap-7">
+        <img src="./img/img-w.png" alt="" class="rounded-sm" style="background: url(<path-to-image>) lightgray 50% / cover no-repeat;">
+        <p>1965 Gibson SG Standard <br>Electric Guitar
+        </p>
+        <p>$2,850</p>
+        <p>2 Days left</p>
+        <i class="fa-regular fa-heart"></i>
+    </div>
+
+
+
+
+
+    <div class="flex items-center gap-7 mb-2">
+        <img src="./img/img-w.png" alt="" class="rounded-sm" style="background: url(<path-to-image>) lightgray 50% / cover no-repeat;">
+        <p>Original Apple Macintosh <br>128K (1984)
+        </p>
+        <p>$2,850</p>
+        <p>2 Days left</p>
+        <i class="fa-regular fa-heart"></i>
+    </div>
+
+
+
+
+
+
+    <div class="flex items-center gap-7 mb-2">
+        <img src="./img/image (2).png" alt="" class="rounded-sm" style="background: url(<path-to-image>) lightgray 50% / cover no-repeat;">
+        <p>Rolex Submariner 16610
+        </p>
+        <p>$2,850</p>
+        <p>2 Days left</p>
+        <i class="fa-regular fa-heart"></i>
+    </div>
+
+
+
+
+
+
+    <div class="flex items-center gap-7 mb-2">
+        <img src="./img/img-w.png" alt="" class="rounded-sm" style="background: url(<path-to-image>) lightgray 50% / cover no-repeat;">
+        <p>First Edition 'The Great <br>Gatsby'by F. Scott Fitzgerald </p>
+        <p>$2,850</p>
+        <p>2 Days left</p>
+        <i class="fa-regular fa-heart"></i>
+    </div>
+
+
+    <div class="flex items-center gap-7 mb-2">
+        <img src="./img/img.png" alt="" class="rounded-sm" style="background: url(<path-to-image>) lightgray 50% / cover no-repeat;">
+           <p>Mid-Century Modern Eames <br>Lounge Chair </p>
+        <p>$2,850</p>
+        <p>2 Days left</p>
+        <i class="fa-regular fa-heart"></i>
+    </div>
+
+
+
+    <div class="flex items-center gap-7 mb-2">
+        <img src="./img/img-w.png" alt="" class="rounded-sm" style="background: url(<path-to-image>) lightgray 50% / cover no-repeat;">
+        <p>Banksy Original Screen Print
+        </p>
+        <p>$2,850</p>
+        <p>2 Days left</p>
+        <i class="fa-regular fa-heart"></i>
+    </div>
+
+</div>
+
+
+
+
+    <div class="text-center bg-white h-72 py-5 px-2 rounded-lg">
+        <div class="flex items-center justify-center lg:mb-6 md:mb-4 mb-3">
+            <i class="fa-regular fa-heart text-xl"></i>
+        <h3 class="text-[#0E2954] font-sora lg:text-3xl md:text-2xl text-xl font-medium ">Favorite Items</h3>
+    </div>
+        <p class="text-[#000] lg:text-2xl md:text-xl text-lg font-sora font-normal lg:mb-4 md:mb-3 mb-2">No favorites yet</p>
+        <p class="text-[#000] md:text-lg text-base font-sora lg:mb-6 md:mb-3 mb-2">Click the heart icon on any item <br>to add it to your favorites</p>
+        <div class="flex gap-5 justify-center">
+            <p class="text-[#000] lg:text-2xl md:text-xl text-lg font-sora font-normal">Total bids Amount</p>
+            <p class="text-[#000] lg:text-2xl md:text-xl text-lg font-sora font-normal">$0000</p>
+        </div>
+    </div>
+</div>
+
+</section>
